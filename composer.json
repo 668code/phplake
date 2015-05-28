@@ -1,0 +1,23 @@
+{
+    "name": "feiyang8068/phplake",
+    "description": "Simple framework boot scripts",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Li Feilong",
+            "email": "feiyang8068@qq.com"
+        }
+    ],
+    "require": {
+        "symfony/symfony": "2.6.8",
+        "abeautifulsite/simpleimage": "~2.5",
+        "gregwar/captcha": "~1.1",
+        "doctrine/dbal": "~2.5",
+        "jdorn/sql-formatter": "~1.2",
+        "monolog/monolog": "~1.13",
+        "twig/extensions": "~1.2",
+        "wixel/gump": "~1.1",
+        "jasongrimes/paginator": "~1.0",
+        "twig/twig": "~1.18"
+    }
+}
